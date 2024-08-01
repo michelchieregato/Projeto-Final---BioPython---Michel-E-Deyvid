@@ -36,7 +36,10 @@ class Sequencia:
             seq_complementar_reversa += CONVERSOR_DE_BASES.get(self.sequencia[i], self.sequencia[i])
         return Sequencia(seq_complementar_reversa)
 
-    def transcrever(self, parar=False):
+    def transcrever(self):
+        return Sequencia(self.sequencia.replace('T', 'U'))
+
+    def traduzir(self, parar=False):
         n = len(self.sequencia)
 
         translacao = ""
@@ -50,3 +53,9 @@ class Sequencia:
                 translacao += DNA_PARA_AMINOACIDO.get(codon, "X")
         return translacao
 
+    def calcular_percentual(self, bases):
+        bases_count = 0
+        for base in self.sequencia:
+            if base in bases:
+                bases_count += 1
+        return bases_count / len(self.sequencia)
