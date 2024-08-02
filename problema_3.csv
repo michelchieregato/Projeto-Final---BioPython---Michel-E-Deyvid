@@ -1,0 +1,160 @@
+id,nome,base_esperada,base_achada,tem_mutacao_estudada
+NC_074786.1,"Guereza hepacivirus isolate GHV-1 BWC08, partial genome",A,A,Não
+NC_074787.1,"Hepatitis GB virus A polyprotein, complete cds",A,A,Não
+NC_076029.1,"Bovine viral diarrhea virus 1-SD1 polyprotein gene, complete cds",A,C,Não
+NC_076032.1,"Bovine viral diarrhea virus 2 strain XJ-04, complete genome",A,T,Não
+NC_077000.1,"Rodent pestivirus isolate RtAp-PestV/JL2014 polyprotein (QKT81_gp1) gene, complete cds",A,T,Não
+NC_077001.1,"Rodent pestivirus isolate RtNn-PestV/HuB2014 polyprotein (QKT82_gp1) gene, complete cds",A,A,Não
+NC_077015.1,"Bat pestivirus BtSk-PestV-1/GX2017 polyprotein (QKT96_gp1) gene, complete cds",A,A,Não
+NC_077023.1,"Pestivirus sp. isolate ovine/It/338710-3/2017 polyprotein (QKU04_gp1) gene, complete cds",A,C,Não
+NC_077024.1,"Dongyang pangolin virus isolate DYAJ1, complete genome",A,A,Não
+NC_077026.1,"Phocoena pestivirus isolate NS170385, complete genome",A,C,Não
+NC_043110.1,"Banzi virus strain SAH 336 polyprotein gene, complete cds",A,A,Não
+NC_040555.1,"Lumpfish flavivirus, complete genome",A,G,Sim
+NC_040589.1,"Diatom colony associated ssRNA virus 1 genomic RNA, complete genome",A,T,Não
+NC_040610.1,"Nanay virus strain PRD316/PER/09, complete genome",A,C,Não
+NC_040645.1,"Culex Flavi-like virus strain CFVL/San Francisco, complete genome",A,T,Não
+NC_040682.1,"Culex theileri flavivirus, complete genome",A,A,Não
+NC_040776.1,"Rocio virus strain SPH 34675, complete genome",A,G,Sim
+NC_040788.1,"Kampung Karu virus isolate SWK_P44, complete genome",A,A,Não
+NC_040815.1,"Hepacivirus P isolate RHV-GS2015, complete genome",A,T,Não
+NC_038425.1,"Non-primate hepacivirus NZP1 polyprotein (POLY) gene, complete cds",A,G,Sim
+NC_038426.1,"Hepacivirus B polypeptide gene, complete cds",A,T,Não
+NC_038427.1,"Hepacivirus F, complete genome",A,A,Não
+NC_038428.1,"Hepacivirus I, complete genome",A,C,Não
+NC_038429.1,"Hepacivirus J isolate Hepacivirus/RMU10-3382/GER/2010 polyprotein gene, complete cds",A,T,Não
+NC_038430.1,"Hepacivirus K, complete genome",A,G,Sim
+NC_038431.1,"Hepacivirus M polyprotein (POLY) gene, complete cds",A,G,Sim
+NC_038432.1,"Hepacivirus N, complete genome",A,C,Não
+NC_038433.1,"Theiler's disease-associated virus isolate HorseA1_serum, complete genome",A,G,Sim
+NC_038434.1,"Pegivirus F isolate PDB-1698 polyprotein gene, complete cds",A,G,Sim
+NC_038435.1,"Pegivirus G isolate PDB-620 polyprotein gene, complete cds",A,T,Não
+NC_038436.1,"Human hepegivirus isolate AK-790 polyprotein gene, complete cds",A,T,Não
+NC_038437.1,"Pegivirus I isolate PDB-1715 polyprotein gene, complete cds",A,A,Não
+NC_038882.1,"Hepatitis C virus (isolate H77) genotype 1, complete cds",A,T,Não
+NC_038912.1,"Classical swine fever virus, strain Alfort/187 complete genome",A,C,Não
+NC_038964.1,"Porcine pestivirus 1 strain 000515 polyprotein mRNA, complete cds",A,G,Sim
+NC_039218.1,"Kyasanur forest disease virus polyprotein gene, complete cds",A,C,Não
+NC_039219.1,"Royal Farm virus from Afghanistan polyprotein gene, complete cds",A,C,Não
+NC_039237.1,"Bovine viral diarrhea virus 2 polyprotein gene, complete cds",A,C,Não
+NC_035889.1,"Zika virus isolate ZIKV/H. sapiens/Brazil/Natal/2015, complete genome",A,A,Não
+NC_035432.1,"Linda virus strain Austria1, complete genome",A,G,Sim
+NC_035187.1,"Mac Peak virus isolate McPV 150840 polyprotein gene, complete cds",A,T,Não
+NC_035118.1,"Karumba virus isolate KRBV 1892, complete genome",A,G,Sim
+NC_035071.1,"Apis flavivirus isolate RI-A polyprotein gene, complete cds",A,A,Não
+NC_034442.1,"Pegivirus K isolate PPgV_903/Ger/2013 polyprotein gene, complete cds",A,C,Não
+NC_034151.1,"T'Ho virus strain T'Ho-Mex07, complete genome",A,A,Não
+NC_034242.1,"Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds",A,T,Não
+NC_034222.1,"Mogiana tick virus isolate MGTV/V4/11 segment 1, complete sequence",A,A,Não
+NC_034223.1,"Mogiana tick virus isolate MGTV/V4/11 segment 3, complete sequence",A,A,Não
+NC_034224.1,"Mogiana tick virus isolate MGTV/V4/11 VP2-3 gene, complete cds",A,A,Não
+NC_034225.1,"Mogiana tick virus isolate MGTV/V4/11 putative glycoprotein gene, complete cds",A,A,Não
+NC_034204.1,"Menghai flavivirus isolate MHAedFV1, complete genome",A,C,Não
+NC_034007.1,"Phnom Penh bat virus strain 30834_A38, complete genome",A,T,Não
+NC_034017.1,"Xishuangbanna aedes flavivirus, complete genome",A,A,Não
+NC_034018.1,"Yaounde virus strain Dak Ar Y276 polyprotein gene, complete cds",A,A,Não
+NC_033693.1,"Bouboui virus strain DAK AR B490 polyprotein gene, complete cds",A,A,Não
+NC_033694.1,"Palm Creek virus isolate 56 polyprotein gene, complete cds",A,A,Não
+NC_033697.1,"Saboya virus strain Dak AR D4600 polyprotein gene, complete cds",A,G,Sim
+NC_033698.1,"Uganda S virus polyprotein gene, complete cds",A,A,Não
+NC_033699.1,"Jugra virus strain P-9-314 polyprotein gene, complete cds",A,G,Sim
+NC_033715.1,"Nounane virus polyprotein mRNA, complete cds",A,T,Não
+NC_033721.1,"Meaban virus from France polyprotein gene, complete cds",A,G,Sim
+NC_033723.1,"Gadgets Gully virus from Australia polyprotein gene, complete cds",A,G,Sim
+NC_033724.1,"Kadam virus from Uganda polyprotein gene, complete cds",A,A,Não
+NC_033725.1,"Bamaga virus isolate CY4270 polyprotein gene, complete cds",A,T,Não
+NC_033726.1,"Saumarez Reef virus from Australia polyprotein gene, complete cds",A,G,Sim
+NC_032088.1,"New Mapoon virus, complete cds",A,C,Não
+NC_031950.1,"Guereza hepacivirus, complete sequence",A,A,Não
+NC_031916.1,"Hepacivirus L, complete genome",A,T,Não
+NC_031947.1,"Bat hepacivirus polyprotein (POLY) gene, complete cds",A,G,Sim
+NC_031327.1,"Anopheles flavivirus variant 1, complete genome",A,C,Não
+NC_029054.2,"Potiskum virus strain IBAN 10069 polyprotein gene, complete cds",A,G,Sim
+NC_030791.1,"Hepatitis C virus genotype 7, complete genome",A,C,Não
+NC_030653.1,"Atypical porcine pestivirus 1 isolate Bavaria S5/9 polyprotein gene, complete cds",A,A,Não
+NC_030400.1,"Nakiwogo virus strain Uganda08 polyprotein gene, partial cds",A,C,Não
+NC_030401.1,"Hanko virus polyprotein gene, complete cds",A,C,Não
+NC_030289.1,"Edge Hill virus strain YMP 48 polyprotein gene, complete cds",A,C,Não
+NC_030290.1,"Culiseta flavivirus strain 502-13, complete genome",A,G,Sim
+NC_030291.1,"GB virus D strain 68 polyprotein precursor, gene, complete cds",A,A,Não
+NC_029055.1,"Spondweni virus, complete genome",A,C,Não
+NC_028377.1,"Wenling shark virus, complete cds",A,T,Não
+NC_028137.1,"Macrosiphum euphorbiae virus 1 isolate K01 polyprotein gene, complete cds",A,T,Não
+NC_027998.2,"Human pegivirus 2 isolate UC0125.US polyprotein gene, complete cds",A,C,Não
+NC_027999.1,"Paraiso Escondido virus isolate Ecuador2012, complete genome",A,T,Não
+NC_027817.1,"Parramatta River virus isolate 92-B115745, complete genome",A,A,Não
+NC_027819.1,"Mercadeo virus isolate ER-M10, complete genome",A,T,Não
+NC_027709.1,"Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome",A,G,Sim
+NC_026797.1,"Bovine hepacivirus polyprotein (POLY) gene, complete cds",A,T,Não
+NC_026620.1,"Jutiapa virus strain JG-128, complete genome",A,A,Não
+NC_026623.1,"Cacipacore virus flavivirus polyprotein (flavivirus polyprotein gene) and truncated polyprotein (flavivirus polyprotein gene) genes, complete cds",A,A,Não
+NC_026624.1,"Sokoluk virus strain LEIV-400K, complete genome",A,T,Não
+NC_025672.1,"Norway rat hepacivirus 1, complete sequence",A,A,Não
+NC_025673.1,"Norway rat hepacivirus 2, complete sequence",A,T,Não
+NC_025677.1,"Norway rat pestivirus isolate NrPV/NYC-D23 polyprotein gene, complete cds",A,C,Não
+NC_025679.1,"Norway rat pegivirus isolate NrPgV/NYC-E13 polyprotein gene, complete cds",A,C,Não
+NC_024889.1,"Equine hepacivirus JPN3/JAPAN/2013 polyprotein (POLY) gene, complete cds",A,C,Não
+NC_024805.1,"Ilomantsi virus isolate M0724 polyprotein gene, complete cds",A,A,Não
+NC_024806.1,"Lammi virus isolate M0719 polyprotein gene, complete cds",A,A,Não
+NC_024377.1,"Simian pegivirus isolate SPgVkrc_RC08 polyprotein precursor, gene, complete cds",A,G,Sim
+NC_024299.2,"Nienokoue virus isolate B51/CI/2004, complete genome",A,C,Não
+NC_024111.1,"Jingmen Tick Virus isolate SY84 segment 4, complete sequence",A,G,Sim
+NC_024112.1,"Jingmen Tick Virus isolate SY84 segment 2, complete sequence",A,C,Não
+NC_024113.1,"Jingmen Tick Virus isolate SY84 segment 1, complete sequence",A,C,Não
+NC_024114.1,"Jingmen Tick Virus isolate SY84 segment 3, complete sequence",A,A,Não
+NC_024077.1,"Soybean cyst nematode virus 5 strain ScV5 polyprotein gene, complete cds",A,T,Não
+NC_024018.2,"Pronghorn antelope pestivirus, complete genome",A,G,Sim
+NC_024017.1,"Nhumirim virus strain BrMS-MQ10, complete genome",A,T,Não
+NC_023439.1,"Kama virus strain LEIV-20776Tat polyprotein gene, complete cds",A,G,Sim
+NC_023424.1,"Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds",A,C,Não
+NC_023176.1,"Porcine pestivirus isolate Bungowannah, complete genome",A,A,Não
+NC_021153.1,"Rodent hepacivirus, complete genome",A,A,Não
+NC_021154.1,"Rodent pegivirus isolate CC61, complete genome",A,T,Não
+NC_021069.1,"Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome",A,A,Não
+NC_020902.1,"Equine Pegivirus 1 isolate C0035, complete genome",A,T,Não
+NC_018705.3,"Ntaya virus, complete cds",A,A,Não
+NC_018713.1,"Pestivirus strain Aydin/04-TR, complete genome",A,C,Não
+NC_017086.1,"Chaoyang virus, complete genome",A,C,Não
+NC_016997.1,"Donggang virus, complete genome",A,T,Não
+NC_015843.2,"Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds",A,G,Sim
+NC_012932.1,"Aedes flavivirus genomic RNA, complete genome, strain: Narita-21",A,A,Não
+NC_012812.1,"Bovine viral diarrhea virus 3 Th/04_KhonKaen, complete genome",A,C,Não
+NC_012735.1,"Wesselsbron virus strain SAH177, complete genome",A,A,Não
+NC_012671.1,"Quang Binh virus, complete genome",A,A,Não
+NC_012532.1,"Zika virus, complete genome",A,T,Não
+NC_012533.1,"Kedougou virus strain DakAar D1470, complete genome",A,T,Não
+NC_012534.1,"Bagaza virus strain DakAr B209, complete genome",A,A,Não
+NC_009942.1,"West Nile virus lineage 1, complete genome",A,T,Não
+NC_009823.1,"Hepatitis C virus genotype 2, complete genome",A,C,Não
+NC_009827.1,"Hepatitis C virus genotype 6, complete genome",A,A,Não
+NC_009029.2,"Kokobera virus, complete genome",A,G,Sim
+NC_008718.1,"Entebbe bat virus, complete genome",A,A,Não
+NC_008719.1,"Sepik virus, complete genome",A,T,Não
+NC_008604.2,"Culex flavivirus, complete genome",A,G,Sim
+NC_007580.2,"Saint Louis encephalitis virus, complete genome",A,A,Não
+NC_006551.1,"Usutu virus, complete cds",A,A,Não
+NC_005064.1,"Kamiti River virus, complete genome",A,C,Não
+NC_005062.1,"Omsk hemorrhagic fever virus, complete genome",A,G,Sim
+NC_005039.1,"Yokose virus, complete genome",A,A,Não
+NC_004119.1,"Montana myotis leukoencephalitis virus, complete genome",A,T,Não
+NC_003635.1,"Modoc virus, complete genome",A,G,Sim
+NC_002657.1,"Classical swine fever virus, complete genome",A,T,Não
+NC_002640.1,"Dengue virus 4, complete genome",A,T,Não
+NC_003690.1,"Langat virus, complete genome",A,C,Não
+NC_000943.1,"Murray Valley encephalitis virus, complete genome",A,A,Não
+NC_003678.1,Pestivirus giraffe-1 H138 complete genome,A,C,Não
+NC_001655.1,"Hepatitis GB virus B, complete genome",A,T,Não
+NC_003679.1,"Border disease virus X818, complete genome",A,A,Não
+NC_001837.1,"Hepatitis GB virus A, complete genome",A,C,Não
+NC_004102.1,"Hepatitis C virus genotype 1, complete genome",A,T,Não
+NC_001809.1,"Louping ill virus, complete genome",A,T,Não
+NC_001477.1,"Dengue virus 1, complete genome",A,T,Não
+NC_001710.1,"GB virus C/Hepatitis G virus, complete genome",A,C,Não
+NC_001672.1,"Tick-borne encephalitis virus, complete genome",A,G,Sim
+NC_001563.2,"West Nile virus lineage 2, complete genome",A,C,Não
+NC_001564.2,"Cell fusing agent virus strain Galveston, complete genome",A,G,Sim
+NC_001461.1,"Bovine viral diarrhea virus 1, complete genome",A,T,Não
+NC_001474.2,"Dengue virus 2, complete genome",A,G,Sim
+NC_001475.2,"Dengue virus 3, complete genome",A,C,Não
+NC_003687.1,"Powassan virus, complete genome",A,A,Não
+NC_002031.1,"Yellow fever virus, complete genome",A,G,Sim

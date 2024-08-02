@@ -1,2 +1,4 @@
 .idea/
 bio/__pycache__/*
+problemas/__pycache__/*
+*.pyc
